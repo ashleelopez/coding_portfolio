@@ -26,7 +26,10 @@ a:hover {
   }
 
 body {
-    background-color: #dcc0fc;
+    background-image: url('https://64.media.tumblr.com/280246b43ccf85d95f77685c30b39b27/5806d87f98013d89-a2/s1280x1920/601610d293a39495ab422bbc25987cdf079060e0.png');
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
     display: flex;
     height: 100vh;
     align-items: center;
