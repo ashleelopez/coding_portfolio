@@ -43,6 +43,8 @@ body {
     background-color: white;
     width: 60vw;
     min-height: 90vh;
+    display: flex;
     text-align: center;
     border-radius: 20px;
+    position: absolute;
 }
