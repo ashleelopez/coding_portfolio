@@ -23,6 +23,7 @@ a {
 a:hover {
     background-color: #dcc0fc;
     cursor: grabbing;
+    color: white;
   }
 
 body {
