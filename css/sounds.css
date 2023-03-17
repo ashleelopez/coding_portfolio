@@ -19,7 +19,12 @@ body {
     border-radius: 5px;
     font-family: 'Poppins', sans-serif;
     margin: 1rem;
-    padding: 1.5rem 3 rem;
+    padding: 1.5rem 3rem;
     font-size: 1.2rem;
 
+}
+
+.btn:hover {
+    opacity: 0.9;
+    cursor: pointer;
 }
