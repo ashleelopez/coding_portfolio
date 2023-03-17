@@ -1,4 +1,7 @@
-
+a {
+    color: white;
+    text-decoration: none;
+}
 
 body {
     display: flex;
