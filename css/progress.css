@@ -5,6 +5,10 @@
     --grey: #383838;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
 
 body {
     background-color: #1f1f1f;
