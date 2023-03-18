@@ -35,7 +35,7 @@ body {
         right: 0;
         margin: 10px;
         cursor: pointer;
-        animation: fadeIn 5s;
+        animation: fadeIn 13s;
 }
 
 @keyframes fadeIn {
